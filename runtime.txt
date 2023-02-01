@@ -1,0 +1,8 @@
+aiohttp
+python-decouple
+psutil
+tgcrypto
+Telethon
+Cryptg
+git+https://github.com/Tinche/aiofiles
+https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
